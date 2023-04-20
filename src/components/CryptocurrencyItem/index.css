@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.list-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.logo {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.currency-name {
+  color: #ffffff;
+}
+.value-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 10px;
+}
+.value {
+  color: #ffffff;
+  margin-right: 20px;
+}
